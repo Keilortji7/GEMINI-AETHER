@@ -20,4 +20,4 @@ Este proyecto centraliza más de 50 scripts funcionales que permiten automatizar
 ## ⚙️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/GEMINI-AETHER.git](https://github.com/tu-usuario/GEMINI-AETHER.git)
+   git clone [https://github.com/Keilortji7/GEMINI-AETHER.git](https://github.com/Keilortji7/GEMINI-AETHER.git)
