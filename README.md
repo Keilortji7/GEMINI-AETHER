@@ -1,4 +1,4 @@
-# GEMINI-AETHER 🌌
+# GEMINI-AETHER 
 
 **GEMINI-AETHER** es una suite de herramientas de automatización desarrolladas en Python, diseñadas para optimizar tareas repetitivas mediante la manipulación lógica de periféricos (teclado y ratón).
 
